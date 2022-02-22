@@ -1,5 +1,5 @@
-* Sketching
-* Editing
-* Writing
-* Programming
-* Jogging
+* Sketching 💙
+* Editing 💻
+* Writing 📓
+* Programming 🖥️
+* Jogging 🏃‍♂️
