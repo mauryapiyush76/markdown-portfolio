@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+[PIXAR Carousel](https://mauryapiyush76.github.io/pixar_titles_Carousel/)
